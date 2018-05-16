@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Spring4x" />
+        <module name="SpringMVC" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Spring4x" target="1.5" />
       <module name="SpringBootAC" target="1.5" />
+      <module name="SpringMVC" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

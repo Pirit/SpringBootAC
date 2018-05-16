@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>Spring4x</module>
+        <module>SpringMVC</module>
     </modules>
 
 
